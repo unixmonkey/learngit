@@ -1,6 +1,7 @@
 Learngit
 ===
 
+Added new feature.
 
 Thank you for attending tonight's [indyrb meetup](http://www.meetup.com/indyrb/).
 
