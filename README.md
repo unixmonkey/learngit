@@ -16,7 +16,7 @@ Add the output of this (your SSH public key) to Github under "Account Settings" 
 
 Fork the other project to your own Github account and clone to work with locally
 <pre>
-  git clone git@github.com:<YOUR_GITHUB_NAME>/learngit.git
+  git clone git@github.com:YOUR_GITHUB_NAME/learngit.git
   git remote -v
   cd learngit/
 </pre>
