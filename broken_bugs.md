@@ -10,5 +10,5 @@ Bugs are broken everywhere
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
-                ||     ||
+                ||     ||   O
 </pre>
