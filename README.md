@@ -1,15 +1,13 @@
 Learngit
 ===
 
+The goal of this project is to help YOU learn how to contribute to someone's project on GitHub.
 
-Thank you for attending tonight's [indyrb meetup](http://www.meetup.com/indyrb/).
+This is a playground, and an educational tool.
 
-Tonight's goal is to learn how to contribute to someone's project on GitHub. If you do not already have an account, please sign up.
+Feel free to send pull requests and open issues.
 
-
-Thank you everyone who already uses git for sitting through this.
-
-My commands:
+If you do not already have an account with [GitHub](https://github.com), please sign up.
 
 Add the output of this (your SSH public key) to Github under "Account Settings" -> "SSH Keys'
 <pre>
@@ -18,7 +16,7 @@ Add the output of this (your SSH public key) to Github under "Account Settings" 
 
 Fork the other project to your own Github account and clone to work with locally
 <pre>
-  git clone git@github.com:ghoneycutt/learngit.git
+  git clone git@github.com:<YOUR_GITHUB_NAME>/learngit.git
   git remote -v
   cd learngit/
 </pre>
