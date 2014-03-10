@@ -67,3 +67,7 @@ Delete your local topic branch
   git branch -d my_awesome_new_feature
   git log
 </pre>
+
+
+
+
