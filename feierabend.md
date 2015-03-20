@@ -1,5 +1,6 @@
 # it is almost that time
 
-# ich mochte ein weissbier
+# ich mochte eine Hoibe
+\o/
 
 # Zut alors!
