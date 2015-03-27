@@ -1,6 +1,6 @@
 # it is almost that time
 
-# ich mochte eine Hoibe
+# i mog a Hoibe
 \o/
 
 
