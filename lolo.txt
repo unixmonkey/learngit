@@ -1,0 +1,8 @@
+Filesystem           1K-blocks     Used Available Use% Mounted on
+/dev/mapper/VolGroup-lv_root
+                       8712392  2052576   6217244  25% /
+tmpfs                   510172        0    510172   0% /dev/shm
+/dev/sda1               495844    60250    409994  13% /boot
+vagrant              145096700 67939876  77156824  47% /vagrant
+tmp_vagrant-puppet_manifests-a11d1078b1b1f2e3bdea27312f6ba513
+                     145096700 67939876  77156824  47% /tmp/vagrant-puppet/manifests-a11d1078b1b1f2e3bdea27312f6ba513
