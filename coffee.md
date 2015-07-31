@@ -1,6 +1,6 @@
 <pre>
  ________________________
-< almost time for coffee >
+< Almost time for butter coffee >
  ------------------------
         \   ^__^
          \  (oo)\_______
