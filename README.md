@@ -14,7 +14,7 @@ Add the output of this (your SSH public key) to Github under "Account Settings" 
   cat ~/.ssh/id_rsa.pub
 </pre>
 
-Fork the other project to your own Github account (in the top-right corner of the page, click Fork)and clone to work with locally
+Fork the other project to your own Github account (in the top-right corner of the page, click Fork) and clone to work with locally
 <pre>
   git clone git@github.com:YOUR_GITHUB_NAME/learngit.git
   cd learngit/
