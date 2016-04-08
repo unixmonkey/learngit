@@ -1,3 +1,4 @@
 save
 restart
 restart
+#halt -q
