@@ -1,1 +1,1 @@
-Australia were lucky
+Australia was lucky
